@@ -1,2 +1,2 @@
 # Semafor
-Semafor funkcija
+Ovo je semafor funkcija.

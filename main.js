@@ -13,3 +13,6 @@ function changeToGreen(){
 }
 var x = setTimeout(changeToYellow,3000);
 var y = setTimeout(changeToGreen,5000);
+var start = setInterval(semafor,8000);
+}
+semafor();

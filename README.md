@@ -1,0 +1,2 @@
+# Semafor
+Semafor funkcija
